@@ -21,9 +21,6 @@ public class BinarySearch {
     }
 
     public int searchLr(int[] nums, int target) {   // 左闭右开
-        if (target < nums[0] || target > nums[nums.length - 2]) { // 检测
-            return -1;
-        }
         int left = 0, right = nums.length;
 
         while (left < right) {  // 等于则无意义
