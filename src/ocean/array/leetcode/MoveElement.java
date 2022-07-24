@@ -1,4 +1,4 @@
-package ocean.array;
+package ocean.array.leetcode;
 // https://leetcode.cn/problems/remove-element/
 
 public class MoveElement {
