@@ -1,6 +1,6 @@
-package ocean.linkedlist.leetcode;
+package linkedlist.leetcode;
 
-import ocean.linkedlist.template.MySingleLinkedList;
+import linkedlist.template.MySingleLinkedList;
 
 public class RemoveNthFromEnd {
     /** 删除链表的倒数位节点 */

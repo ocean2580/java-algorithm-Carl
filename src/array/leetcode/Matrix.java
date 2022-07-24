@@ -1,4 +1,4 @@
-package ocean.array.leetcode;
+package array.leetcode;
 
 public class Matrix {
     public int[][] rotate(int n) {

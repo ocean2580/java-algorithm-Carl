@@ -1,4 +1,4 @@
-package ocean.array.leetcode;
+package array.leetcode;
 
 import java.util.Arrays;
 

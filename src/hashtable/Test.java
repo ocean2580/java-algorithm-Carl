@@ -1,6 +1,6 @@
-package ocean.hashtable;
+package hashtable;
 
-import ocean.hashtable.leetcode.*;
+import hashtable.leetcode.*;
 
 import java.util.Arrays;
 

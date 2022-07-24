@@ -1,6 +1,6 @@
-package ocean.linkedlist.leetcode;
+package linkedlist.leetcode;
 
-import ocean.linkedlist.template.MySingleLinkedList;
+import linkedlist.template.MySingleLinkedList;
 
 public class IntersectionNode {
     /** 链表相交 */

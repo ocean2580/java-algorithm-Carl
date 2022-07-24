@@ -1,4 +1,4 @@
-package ocean.hashtable.leetcode;
+package hashtable.leetcode;
 
 public class Anagram {
 //    数组就是简单的哈希表，但是数组的大小可不是无限开辟的(固定)

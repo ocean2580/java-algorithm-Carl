@@ -1,6 +1,6 @@
-package ocean.linkedlist.leetcode;
+package linkedlist.leetcode;
 
-import ocean.linkedlist.template.MySingleLinkedList;
+import linkedlist.template.MySingleLinkedList;
 
 public class ReverseList {
     /** 双指针反转链表（纸上画出过程）*/

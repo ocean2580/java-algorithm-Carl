@@ -1,4 +1,4 @@
-package ocean.hashtable.leetcode;
+package hashtable.leetcode;
 
 import java.util.HashSet;
 import java.util.Set;

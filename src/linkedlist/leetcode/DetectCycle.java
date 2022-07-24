@@ -1,6 +1,6 @@
-package ocean.linkedlist.leetcode;
+package linkedlist.leetcode;
 
-import ocean.linkedlist.template.MySingleLinkedList;
+import linkedlist.template.MySingleLinkedList;
 
 public class DetectCycle {
     /** 环形链表*/

@@ -1,4 +1,4 @@
-package ocean.hashtable.leetcode;
+package hashtable.leetcode;
 
 public class Ransom {
 

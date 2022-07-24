@@ -1,4 +1,4 @@
-package ocean.linkedlist.template;
+package linkedlist.template;
 
 public class MyDoubleLinkedList {
     static class ListNode {

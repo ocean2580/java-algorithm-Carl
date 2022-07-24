@@ -1,4 +1,4 @@
-package ocean.hashtable.leetcode;
+package hashtable.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
