@@ -1,4 +1,4 @@
-package ocean.linkedlist;
+package ocean.linkedlist.template;
 
 public class MySingleLinkedList {
     // 元素的个数
